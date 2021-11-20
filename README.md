@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gordon Hui</h1>
 <h3 align="center">A veterinarian transitioning to full stack software engineer</h3>
 
-- 🔭 I’m currently working on **deValtio**
+- 🔭 I’m currently working on **deValtio**, a chrome dev tool for visualization and debugging applications using Valtio proxy state management libray.
 
-- 🌱 I’m currently learning **Valtio**
+- 🌱 I’m currently using **React/Redux/Node/Express** to create full stack javascript applications. 
 
 - 📫 How to reach me **gordonhui.gh@gmail.com**
 
